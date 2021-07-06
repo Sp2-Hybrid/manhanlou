@@ -1,4 +1,7 @@
 package dao;
 
-public class BillDAO {
+import bean.Bill;
+
+public class BillDAO extends BasicDAO<Bill> {
+
 }

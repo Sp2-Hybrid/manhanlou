@@ -1,4 +1,7 @@
 package dao;
 
-public class MenuDAO {
+import bean.Menu;
+
+public class MenuDAO extends BasicDAO<Menu> {
+
 }
